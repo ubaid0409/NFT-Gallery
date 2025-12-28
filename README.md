@@ -21,17 +21,17 @@
 ```bash
 npm create vite@latest NFT-GALLERY
 
-### **2️⃣ Select Options**
+#### __2️⃣ Select Options__
 
 
 
-* Framework: **React \
-**
-* Variant: **JavaScript \
-**
+* Framework: __React \
+__
+* Variant: __JavaScript \
+__
 
 
-### **3️⃣ Move to Project Folder**
+#### __3️⃣ Move to Project Folder__
 
 
 ```
@@ -40,7 +40,7 @@ cd NFT-GALLERY
 
 
 
-### **4️⃣ Install Dependencies**
+#### __4️⃣ Install Dependencies__
 
 
 ```
@@ -49,7 +49,7 @@ npm install
 
 
 
-### **5️⃣ Run Development Server**
+#### __5️⃣ Run Development Server__
 
 
 ```
@@ -64,10 +64,10 @@ http://localhost:5173
 
 
 
-## **🎨 Tailwind CSS Setup**
+### __🎨 Tailwind CSS Setup__
 
 
-### **1️⃣ Install Tailwind CSS**
+#### __1️⃣ Install Tailwind CSS__
 
 
 ```
@@ -76,7 +76,7 @@ npm install -D tailwindcss postcss autoprefixer
 
 
 
-### **2️⃣ Initialize Tailwind**
+#### __2️⃣ Initialize Tailwind__
 
 
 ```
@@ -85,7 +85,7 @@ npx tailwindcss init -p
 
 
 
-### **3️⃣ Update <code>tailwind.config.js</code></strong>
+#### __3️⃣ Update <code>tailwind.config.js</code></strong>
 
 
 ```
@@ -103,7 +103,7 @@ export default {
 
 
 
-### **4️⃣ Add Tailwind Directives**
+#### __4️⃣ Add Tailwind Directives__
 
 
 ```
@@ -114,7 +114,7 @@ export default {
 
 
 
-### **5️⃣ Import CSS in <code>main.jsx</code></strong>
+#### __5️⃣ Import CSS in <code>main.jsx</code></strong>
 
 
 ```
@@ -126,10 +126,10 @@ import './index.css'
 
 
 
-## **🔗 Clone Project from GitHub**
+### __🔗 Clone Project from GitHub__
 
 
-### **Repository URL**
+#### __Repository URL__
 
 
 ```
@@ -138,7 +138,7 @@ https://github.com/ubaid0409/NFT-Gallery.git
 
 
 
-### **Clone Command**
+#### __Clone Command__
 
 
 ```
@@ -147,7 +147,7 @@ git clone https://github.com/ubaid0409/NFT-Gallery.git
 
 
 
-### **Move to Project Folder**
+#### __Move to Project Folder__
 
 
 ```
@@ -156,7 +156,7 @@ cd NFT-GALLERY
 
 
 
-### **Install Dependencies**
+#### __Install Dependencies__
 
 
 ```
@@ -165,7 +165,7 @@ npm install
 
 
 
-### **Run the App**
+#### __Run the App__
 
 
 ```
@@ -177,7 +177,7 @@ npm run dev
 
 
 
-## **📁 Project Folder Structure**
+### __📁 Project Folder Structure__
 
 
 ```
@@ -207,13 +207,13 @@ NFT-GALLERY
 
 
 
-## **🧠 Application Flow & File Explanation**
+### __🧠 Application Flow & File Explanation__
 
 
 ```
 
 
-### App.jsx
+#### App.jsx
 
 ```
 
@@ -239,7 +239,7 @@ NFT-GALLERY
 ```
 
 
-### Navbar.jsx
+#### Navbar.jsx
 
 ```
 
@@ -259,7 +259,7 @@ NFT-GALLERY
 ```
 
 
-### Home.jsx
+#### Home.jsx
 
 ```
 
@@ -289,7 +289,7 @@ NFT-GALLERY
 ```
 
 
-### FilterBar.jsx
+#### FilterBar.jsx
 
 ```
 
@@ -309,7 +309,7 @@ NFT-GALLERY
 ```
 
 
-### NFTCard.jsx
+#### NFTCard.jsx
 
 ```
 
@@ -337,7 +337,7 @@ NFT-GALLERY
 ```
 
 
-### NFTDetails.jsx
+#### NFTDetails.jsx
 
 ```
 
@@ -349,7 +349,7 @@ NFT-GALLERY
 `
 * Displays complete NFT information \
 
-* Includes a **Buy NFT** button (UI only) \
+* Includes a __Buy NFT__ button (UI only) \
 
 
 
@@ -359,7 +359,7 @@ NFT-GALLERY
 ```
 
 
-### nfts.js
+#### nfts.js
 
 ```
 
@@ -388,7 +388,7 @@ NFT-GALLERY
 ---
 
 
-## **✨ Features**
+### __✨ Features__
 
 
 
@@ -407,7 +407,7 @@ NFT-GALLERY
 ---
 
 
-## **🔮 Future Enhancements**
+### __🔮 Future Enhancements__
 
 
 
@@ -424,10 +424,10 @@ NFT-GALLERY
 ---
 
 
-## **👨‍💻 Author**
+### __👨‍💻 Author__
 
 
 
-* **Name:** Ubaid Hashmi \
+* __Name:__ Ubaid Hashmi \
 
-* **GitHub:**[ https://github.com/ubaid0409](https://github.com/ubaid0409)
+* __GitHub:__[ https://github.com/ubaid0409](https://github.com/ubaid0409)
